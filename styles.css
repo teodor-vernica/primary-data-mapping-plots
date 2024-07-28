@@ -1,0 +1,54 @@
+/* Style for the body */
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-color: #f4f4f4;
+}
+
+/* Style for the main title */
+h1 {
+    text-align: center;
+    color: #333;
+}
+
+/* Style for the section titles */
+h2 {
+    color: #444;
+    border-bottom: 2px solid #ddd;
+    padding-bottom: 10px;
+}
+
+/* Style for the links */
+a {
+    text-decoration: none;
+    color: #0066cc;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Container for each process section */
+.process-section {
+    margin-bottom: 40px;
+}
+
+/* Container for the images */
+.image-row {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+}
+
+/* Style for the images and titles */
+.image-container {
+    text-align: center;
+}
+
+.image-container img {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    background-color: #fff;
+}
