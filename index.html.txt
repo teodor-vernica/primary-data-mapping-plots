@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GitHub Pages Index</title>
+</head>
+<body>
+    <h1>Welcome to My GitHub Pages</h1>
+    <p>Click the link below to view the timeseries power operations:</p>
+    <a href="Timeseries-power-operations.html">Timeseries Power Operations</a>
+</body>
+</html>
